@@ -40,12 +40,6 @@ cd portfolio
 
 Abra o arquivo index.html no navegador de sua preferência.
 
-## 📸 Prévia
-
-## 📸 Prévia
-
-<img src="./screenshot.png" width="800">
-
 📬 Contato
 
 ✉️ E-mail: dionebraga.work@gmail.com
