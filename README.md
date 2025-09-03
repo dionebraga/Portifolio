@@ -33,18 +33,16 @@ portfolio/
 🚀 Como executar o projeto
 
 Clone o repositório:
-
 git clone https://github.com/seuusuario/portfolio.git
 
 Entre na pasta:
-
 cd portfolio
 
 Abra o arquivo index.html no navegador de sua preferência.
 
 ## 📸 Prévia
 
-![preview](./screenshot.png) 
+![preview](screenshot.png) 
 
 📬 Contato
 
