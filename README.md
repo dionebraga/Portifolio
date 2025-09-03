@@ -28,7 +28,7 @@ O objetivo é servir tanto como **currículo interativo** quanto como **laborat�
 💼 LinkedIn: linkedin.com/in/dionebraga
 📸 Instagram: instagram.com/seuusuario
 🌐 Site: Cadastro Cultural
-📄 Licença
+
 
 ## 📂 Estrutura do projeto
 ```bash
@@ -48,5 +48,6 @@ cd portfolio
 
 Abra o arquivo index.html no navegador de sua preferência.
 
+📄 Licença
 Este projeto está sob a licença MIT.
 Sinta-se à vontade para usar como referência.
