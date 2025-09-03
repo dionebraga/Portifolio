@@ -23,13 +23,13 @@ O objetivo é servir tanto como **currículo interativo** quanto como **laborat�
 - **Google Drive (embed de imagem)** para armazenar a foto de perfil
 
 ## 📂 Estrutura do projeto
-
 ```bash
 portfolio/
 ├── index.html        # Página principal
 ├── style.css         # Estilos (pode estar embutido no HTML)
 ├── script.js         # Funções JS (pode estar embutido no HTML)
 └── README.md         # Documentação do projeto
+
 🚀 Como executar o projeto
 
 Clone o repositório:
@@ -41,8 +41,7 @@ cd portfolio
 Abra o arquivo index.html no navegador de sua preferência.
 
 ## 📸 Prévia
-
-![preview](screenshot.png)
+![preview](img/screenshot.png)
 
 📬 Contato
 
