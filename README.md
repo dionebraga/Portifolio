@@ -29,7 +29,6 @@ portfolio/
 ├── style.css         # Estilos (pode estar embutido no HTML)
 ├── script.js         # Funções JS (pode estar embutido no HTML)
 └── README.md         # Documentação do projeto
-```bash
 
 🚀 Como executar o projeto
 
@@ -43,7 +42,9 @@ Abra o arquivo index.html no navegador de sua preferência.
 
 ## 📸 Prévia
 
-![preview](screenshot.png)
+## 📸 Prévia
+
+<img src="./screenshot.png" width="800">
 
 📬 Contato
 
