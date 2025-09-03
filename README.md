@@ -42,8 +42,9 @@ cd portfolio
 
 Abra o arquivo index.html no navegador de sua preferência.
 
-📸 Prévia
-<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/06f6c57d-0116-4311-9932-848fc3e6cf28" />
+## 📸 Prévia
+
+![preview](./screenshot.png)
 
 📬 Contato
 
