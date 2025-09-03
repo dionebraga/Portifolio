@@ -22,37 +22,32 @@ O objetivo é servir tanto como **currículo interativo** quanto como **laborat�
 - **Font Awesome** (ícones sociais)
 - **Google Drive (embed de imagem)** para armazenar a foto de perfil
 
-## 📂 Estrutura do projeto
+## 📬 Contato
 
+✉️ E-mail: dionebraga.work@gmail.com
+💼 LinkedIn: linkedin.com/in/dionebraga
+📸 Instagram: instagram.com/seuusuario
+🌐 Site: Cadastro Cultural
+
+
+## 📂 Estrutura do projeto
 ```bash
 portfolio/
 ├── index.html        # Página principal
 ├── style.css         # Estilos (pode estar embutido no HTML)
 ├── script.js         # Funções JS (pode estar embutido no HTML)
 └── README.md         # Documentação do projeto
+
 🚀 Como executar o projeto
 
 Clone o repositório:
-
 git clone https://github.com/seuusuario/portfolio.git
 
 Entre na pasta:
-
 cd portfolio
 
 Abra o arquivo index.html no navegador de sua preferência.
 
-## 📸 Prévia
-
-![preview](./screenshot.png) 
-
-📬 Contato
-
-✉️ E-mail: dionebraga.work@gmail.com
-💼 LinkedIn: linkedin.com/in/dionebraga
-📸 Instagram: instagram.com/seuusuario
-🌐 Site: Cadastro Cultural
 📄 Licença
-
 Este projeto está sob a licença MIT.
 Sinta-se à vontade para usar como referência.
