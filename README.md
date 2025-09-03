@@ -38,7 +38,7 @@ portfolio/
 ├── script.js         # Funções JS (pode estar embutido no HTML)
 └── README.md         # Documentação do projeto
 
-## 🚀 Como executar o projeto
+🚀 Como executar o projeto
 
 Clone o repositório:
 git clone https://github.com/seuusuario/portfolio.git
