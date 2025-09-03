@@ -29,6 +29,7 @@ portfolio/
 ├── style.css         # Estilos (pode estar embutido no HTML)
 ├── script.js         # Funções JS (pode estar embutido no HTML)
 └── README.md         # Documentação do projeto
+```bash
 
 🚀 Como executar o projeto
 
